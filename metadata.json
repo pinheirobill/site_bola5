@@ -1,0 +1,6 @@
+{
+  "name": "Bola 5 Esportes",
+  "description": "Plataforma de gestão esportiva, locação de quadras, torneios corporativos e complexo Espaço B5 em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
